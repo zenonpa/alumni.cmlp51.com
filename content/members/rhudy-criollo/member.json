@@ -4,12 +4,12 @@
   "bio": "Alumni CMLP51. Army professional",
   "avatar": "avatar.jpeg",
   "photos": [
-    { "file": "rhudy01.jpeg", "description": "Descripción de la foto" },
-    { "file": "avatar.jpeg", "description": "Otra descripción" }
-  ],
-  "links": [
-    { "label": "Twitter", "url": "https://twitter.com/anagarcia" },
-    { "label": "Web", "url": "https://anagarcia.dev" }
+    { "file": "avatar.jpeg", "description": "U.S. Army - Active Duty"},
+    { "file": "rhudy01.jpeg", "description": "Operation Enduring Freedom" },
+    { "file": "rhudy02.jpeg", "description": "Camp Edwards, Massachussetts." },
+    { "file": "rhudy03.jpeg", "description": "Fort Devens, MA" },
+    { "file": "rhudy04.jpeg", "description": "Military Intelligence Battalion" },
+    { "file": "rhudy05.jpeg", "description": "Camp Lemonier, Djibouti - Operation Enduring Freedom" }
   ],
   "email": "rhudy.criollo@gmail.com"
 }
