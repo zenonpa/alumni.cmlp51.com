@@ -1,0 +1,15 @@
+{
+  "name": "Rhudy Criollo",
+  "role": "US Army",
+  "bio": "Alumni CMLP51. Army professional",
+  "avatar": "avatar.jpeg",
+  "photos": [
+    { "file": "rhudy01.jpeg", "description": "Descripción de la foto" },
+    { "file": "avatar.jpeg", "description": "Otra descripción" }
+  ],
+  "links": [
+    { "label": "Twitter", "url": "https://twitter.com/anagarcia" },
+    { "label": "Web", "url": "https://anagarcia.dev" }
+  ],
+  "email": "rhudy.criollo@gmail.com"
+}
